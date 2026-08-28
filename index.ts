@@ -12,8 +12,8 @@ import { basename, dirname, join } from "node:path";
 import { homedir } from "node:os";
 import { WSClient, generateReqId, decryptFile } from "aibot-node-sdk";
 
-import type { ExtensionAPI, ExtensionContext } from "@mariozechner/pi-coding-agent";
-import { Type } from "@sinclair/typebox";
+import type { ExtensionAPI, ExtensionContext } from "@earendil-works/pi-coding-agent";
+import { Type } from "typebox";
 
 // ============================================================================
 // Global Error Handlers
