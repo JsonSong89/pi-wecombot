@@ -23,7 +23,7 @@ pi install npm:pi-wecombot
 
 ### 通过 Git
 ```bash
-pi install git:github.com/huang-x-h/pi-wecombot
+pi install git:github.com/JsonSong89/pi-wecombot
 ```
 
 ## 架构设计

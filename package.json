@@ -15,11 +15,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huang-x-h/pi-wecombot.git"
+    "url": "git+https://github.com/JsonSong89/pi-wecombot.git"
   },
-  "homepage": "https://github.com/huang-x-h/pi-wecombot#readme",
+  "homepage": "https://github.com/JsonSong89/pi-wecombot#readme",
   "bugs": {
-    "url": "https://github.com/huang-x-h/pi-wecombot/issues"
+    "url": "https://github.com/JsonSong89/pi-wecombot/issues"
   },
   "pi": {
     "extensions": [
